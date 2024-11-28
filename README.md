@@ -20,6 +20,3 @@ This repository showcases a data analytics project using SQL for data transforma
 - **Business Intelligence**: Prepare data for use in BI tools like Power BI or Tableau.
 - **Reporting**: Generate aggregated datasets for stakeholder reports.
 - **Exploratory Data Analysis (EDA)**: Enable exploratory analysis of cleaned and structured data.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
